@@ -1,0 +1,6 @@
+# Ignore input files
+*/example*.txt
+*/input*.txt
+
+# Ignore target files
+*/target/
